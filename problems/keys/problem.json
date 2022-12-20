@@ -1,0 +1,7 @@
+[
+    {
+        "prompt": "Return an array containing any key present in the objects of the array.",
+        "dataset": "keys",
+        "solution": "add | keys"
+    }
+]
